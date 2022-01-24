@@ -155,3 +155,13 @@ section .banner {
         font-size: 20px;
     }
 }
+
+@media (min-width:1080px) and (max-width:1619px) {
+    .menu--icon {
+        padding-top: 40px;
+    }
+    .menu--list li {
+        font-size: 23px;
+        
+    }
+}
